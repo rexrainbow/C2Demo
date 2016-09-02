@@ -1,0 +1,20 @@
+﻿CACHE MANIFEST
+#1401987842
+index.html
+c2runtime.js
+jquery-2.0.0.min.js
+images\chess-sheet0.png
+images\chess-sheet1.png
+images\tile-sheet0.png
+icon-16.png
+icon-32.png
+icon-114.png
+icon-128.png
+icon-256.png
+loading-logo.png
+c2mp-net.js
+c2mp-peer.js
+c2mp.js
+waker.js
+NETWORK:
+*
