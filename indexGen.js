@@ -2,7 +2,7 @@ var tmpl = `
 doctype 5
 html
     head
-        title "C2 Demos"
+        title C2 Demos
         meta(name='viewport', content='width=device-width, initial-scale=1.0')
 
         link(rel='stylesheet', href='bootstrap.min.css')   
