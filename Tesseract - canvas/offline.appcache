@@ -1,9 +1,10 @@
 ﻿CACHE MANIFEST
-#1477490655
+#1477493462
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/canvas.png
+images/bg.png
 icon-16.png
 icon-32.png
 icon-114.png
